@@ -1,0 +1,55 @@
+SYNTHETIC SAMPLE CONTRACT — FOR DEMONSTRATION ONLY
+This is an AI-generated template. It is not a real legal document and should
+not be used for any legal purpose. Consult a qualified lawyer for real agreements.
+
+=====================================================================
+
+FREELANCER AGREEMENT
+
+This Freelancer Agreement ("Agreement") is entered into as of October 1, 2025 (the
+"Effective Date"), by and between MediaGroup Inc., a California corporation (the "Client"),
+and Alex Rivera, an individual freelancer (the "Freelancer").
+
+1. SERVICES
+The Freelancer shall provide graphic design and branding services, including logo design,
+brand guidelines, and marketing collateral as described in the Statement of Work.
+
+2. TERM
+This Agreement covers the period from October 1, 2025 to December 31, 2025, unless extended
+by mutual agreement.
+
+3. PAYMENT
+The Client shall pay the Freelancer $75 USD per hour, with a project cap of $15,000 USD.
+The Freelancer shall submit invoices bi-weekly. Payment is due within 15 days of invoice.
+
+4. INTELLECTUAL PROPERTY
+Upon full payment, all intellectual property in the deliverables shall transfer to the
+Client. The Freelancer retains the right to display the work in their portfolio. The
+Freelancer's pre-existing tools and templates remain the Freelancer's property.
+
+5. CONFIDENTIALITY
+The Freelancer shall keep confidential all information provided by the Client. This
+obligation survives for 2 years after termination.
+
+6. INDEPENDENT CONTRACTOR
+The Freelancer is an independent contractor, not an employee. The Freelancer is responsible
+for their own taxes, equipment, and insurance.
+
+7. REVISIONS
+The Freelancer shall provide up to 3 rounds of revisions per deliverable at no additional
+cost. Additional revisions are billed at $75 USD per hour.
+
+8. TERMINATION
+Either party may terminate with 7 days written notice. Upon termination, the Client shall
+pay for all completed work. The Freelancer shall deliver all work-in-progress.
+
+9. LIMITATION OF LIABILITY
+The Freelancer's liability shall not exceed the total fees paid under this Agreement.
+
+10. GOVERNING LAW
+This Agreement is governed by the laws of the State of California.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement.
+
+MediaGroup Inc.                        Alex Rivera
+By: ____________________              ____________________

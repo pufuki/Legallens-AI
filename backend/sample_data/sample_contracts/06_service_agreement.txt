@@ -1,0 +1,59 @@
+SYNTHETIC SAMPLE CONTRACT — FOR DEMONSTRATION ONLY
+This is an AI-generated template. It is not a real legal document and should
+not be used for any legal purpose. Consult a qualified lawyer for real agreements.
+
+=====================================================================
+
+SERVICE AGREEMENT
+
+This Service Agreement ("Agreement") is entered into as of June 1, 2025 (the "Effective
+Date"), by and between Global Services Inc., a Florida corporation (the "Provider"), and
+Acme Corp, a Georgia corporation (the "Client").
+
+1. SERVICES
+The Provider shall perform IT support and maintenance services for the Client's office
+infrastructure, including 24/7 helpdesk support, on-site visits, and system monitoring.
+
+2. TERM
+This Agreement is for 24 months commencing on the Effective Date, ending June 1, 2027.
+
+3. PAYMENT
+The Client shall pay $8,500 USD per month, invoiced on the 1st of each month and payable
+within 15 days. A late fee of 2% per month applies to overdue invoices.
+
+4. SERVICE LEVELS
+The Provider shall respond to critical issues within 2 hours and non-critical issues within
+8 hours. The Provider targets 99.5% system uptime.
+
+5. INDEMNIFICATION
+The Provider shall indemnify the Client against third-party claims arising from the
+Provider's negligence or willful misconduct.
+
+6. LIABILITY
+The Provider's total liability shall not exceed $50,000 USD. The Provider shall not be
+liable for indirect or consequential damages.
+
+7. WARRANTY
+The Provider warrants that services will be performed in a professional and workmanlike
+manner. The Provider shall re-perform any deficient services at no additional cost.
+
+8. CONFIDENTIALITY
+Each party shall protect the other's confidential information. This obligation survives
+for 3 years after termination.
+
+9. TERMINATION
+Either party may terminate with 60 days written notice. The Client may terminate
+immediately for material breach. Upon termination, the Provider shall transition services
+within 30 days.
+
+10. FORCE MAJEURE
+Neither party shall be liable for delays caused by events beyond their reasonable control,
+including natural disasters, strikes, and government actions.
+
+11. GOVERNING LAW
+This Agreement is governed by the laws of the State of Florida.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement.
+
+Global Services Inc.                   Acme Corp
+By: ____________________              ____________________

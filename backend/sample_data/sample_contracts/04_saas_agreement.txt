@@ -1,0 +1,66 @@
+SYNTHETIC SAMPLE CONTRACT — FOR DEMONSTRATION ONLY
+This is an AI-generated template. It is not a real legal document and should
+not be used for any legal purpose. Consult a qualified lawyer for real agreements.
+
+=====================================================================
+
+SAAS SUBSCRIPTION AGREEMENT
+
+This SaaS Subscription Agreement ("Agreement") is entered into as of April 1, 2025
+(the "Effective Date"), by and between CloudApp Inc., a Delaware corporation (the "Provider"),
+and Customer Corp, a New York corporation (the "Customer").
+
+1. SERVICES
+The Provider grants the Customer a non-exclusive, non-transferable right to access and
+use the CloudApp platform (the "Service") for the Customer's internal business operations
+during the subscription term.
+
+2. SUBSCRIPTION AND FEES
+The Customer shall pay an annual subscription fee of $24,000 USD, billed in monthly
+installments of $2,000 USD. Invoices are payable within 15 days of receipt. Late payments
+incur a 1.5% monthly interest charge.
+
+3. TERM AND RENEWAL
+The initial term is 12 months commencing on the Effective Date. This Agreement shall
+automatically renew for successive 12-month terms unless either party provides written
+notice of non-renewal at least 60 days before the end of the current term.
+
+4. DATA PROTECTION
+The Provider shall process Customer data in accordance with applicable data protection
+laws, including GDPR and CCPA. The Provider shall implement reasonable security measures
+to protect Customer data. The Provider shall not use Customer data for any purpose other
+than providing the Service.
+
+5. CONFIDENTIALITY
+Each party shall maintain the confidentiality of the other party's confidential information.
+This obligation survives for 3 years after termination.
+
+6. SERVICE LEVELS
+The Provider targets 99.9% uptime. If the Service is unavailable, the Customer may request
+service credits equal to 10% of the monthly fee for each full day of downtime.
+
+7. WARRANTY
+The Provider warrants that the Service will perform substantially in accordance with the
+documentation. The Service is provided "as-is" and the Provider disclaims all other
+warranties, express or implied.
+
+8. LIMITATION OF LIABILITY
+Each party's liability shall not exceed the fees paid in the 12 months preceding the claim.
+Neither party is liable for indirect or consequential damages.
+
+9. TERMINATION
+The Customer may terminate for material breach with 30 days notice. The Provider may
+terminate immediately for non-payment or material breach. Upon termination, the Provider
+shall provide 30 days of data export access.
+
+10. INTELLECTUAL PROPERTY
+The Provider retains all intellectual property in the Service. The Customer retains all
+intellectual property in its data.
+
+11. GOVERNING LAW
+This Agreement is governed by the laws of the State of Delaware.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement.
+
+CloudApp Inc.                         Customer Corp
+By: ____________________              ____________________

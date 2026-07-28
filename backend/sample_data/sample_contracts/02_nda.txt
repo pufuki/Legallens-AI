@@ -1,0 +1,59 @@
+SYNTHETIC SAMPLE CONTRACT — FOR DEMONSTRATION ONLY
+This is an AI-generated template. It is not a real legal document and should
+not be used for any legal purpose. Consult a qualified lawyer for real agreements.
+
+=====================================================================
+
+MUTUAL NON-DISCLOSURE AGREEMENT
+
+This Mutual Non-Disclosure Agreement ("Agreement") is entered into as of March 1, 2025
+(the "Effective Date"), by and between Alpha Industries, a Texas corporation ("Alpha"),
+and Beta Solutions, a California corporation ("Beta"). Each party is a "Disclosing Party"
+or "Receiving Party" as the context requires.
+
+1. PURPOSE
+The parties wish to explore a potential business relationship and may disclose
+confidential information to each other for this purpose.
+
+2. CONFIDENTIAL INFORMATION
+"Confidential Information" means any non-public information disclosed by one party
+to the other, including technical data, business plans, financial information, customer
+lists, trade secrets, and product designs. Information is confidential whether marked,
+oral, or visual.
+
+3. OBLIGATIONS
+The Receiving Party shall:
+(a) Maintain the confidentiality of all Confidential Information with the same degree
+    of care it uses for its own confidential information;
+(b) Not disclose Confidential Information to any third party without prior written consent;
+(c) Use Confidential Information solely for the purpose of evaluating the potential
+    business relationship;
+(d) Return or destroy all Confidential Information upon request.
+
+4. EXCLUSIONS
+Confidential Information does not include information that:
+(a) Is or becomes publicly known through no fault of the Receiving Party;
+(b) Was already known to the Receiving Party prior to disclosure;
+(c) Is independently developed without use of the Confidential Information;
+(d) Is rightfully received from a third party without obligation of confidentiality.
+
+5. TERM
+This Agreement shall remain in effect for 3 years from the Effective Date. The obligation
+to protect Confidential Information shall survive for 5 years after termination.
+
+6. NO LICENSE
+No license to any intellectual property is granted under this Agreement. All Confidential
+Information remains the property of the Disclosing Party.
+
+7. TERMINATION
+Either party may terminate this Agreement with 30 days written notice. Upon termination,
+all Confidential Information shall be returned or destroyed within 10 days.
+
+8. GOVERNING LAW
+This Agreement shall be governed by the laws of the State of California. Disputes shall
+be resolved by binding arbitration in San Francisco, California.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement.
+
+Alpha Industries                       Beta Solutions
+By: ____________________              ____________________

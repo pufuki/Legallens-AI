@@ -1,0 +1,59 @@
+SYNTHETIC SAMPLE CONTRACT — FOR DEMONSTRATION ONLY
+This is an AI-generated template. It is not a real legal document and should
+not be used for any legal purpose. Consult a qualified lawyer for real agreements.
+
+=====================================================================
+
+PARTNERSHIP AGREEMENT
+
+This Partnership Agreement ("Agreement") is entered into as of September 1, 2025 (the
+"Effective Date"), by and between GreenTech Solutions LLC, a Massachusetts LLC ("GreenTech"),
+and EcoVentures Inc., a Massachusetts corporation ("EcoVentures"). The parties are referred
+to individually as a "Partner" and collectively as the "Partners."
+
+1. PARTNERSHIP PURPOSE
+The Partners form a partnership to develop and market sustainable energy products and
+related technologies. The partnership shall operate under the name "GreenEco Alliance."
+
+2. CONTRIBUTIONS
+GreenTech shall contribute $150,000 USD and proprietary solar panel technology. EcoVentures
+shall contribute $150,000 USD and marketing expertise. Additional contributions require
+unanimous consent.
+
+3. PROFIT AND LOSS
+Profits and losses shall be shared equally (50/50) between the Partners. Distributions shall
+be made quarterly within 30 days of the end of each quarter.
+
+4. MANAGEMENT
+Each Partner has equal management rights. Major decisions require unanimous consent,
+including: (a) entering contracts exceeding $50,000 USD; (b) hiring key personnel;
+(c) acquiring or disposing of assets; (d) incurring debt.
+
+5. INTELLECTUAL PROPERTY
+All intellectual property developed by the partnership shall be jointly owned by the
+Partners. Pre-existing IP remains the property of the contributing Partner. Each Partner
+grants the partnership a license to use their pre-existing IP for partnership purposes.
+
+6. CONFIDENTIALITY
+Each Partner shall maintain the confidentiality of partnership information. This
+obligation survives for 5 years after termination.
+
+7. LIABILITY
+Each Partner shall be liable for their own negligence. The partnership shall maintain
+general liability insurance of $2,000,000 USD.
+
+8. TERM AND TERMINATION
+The partnership term is 5 years. Either Partner may terminate with 120 days written notice.
+Upon termination, assets shall be liquidated and proceeds distributed per the profit ratio.
+
+9. NON-COMPETE
+During the partnership and for 12 months after, neither Partner shall engage in a competing
+sustainable energy business without consent.
+
+10. GOVERNING LAW
+This Agreement is governed by the laws of the Commonwealth of Massachusetts.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement.
+
+GreenTech Solutions LLC                EcoVentures Inc.
+By: ____________________              ____________________

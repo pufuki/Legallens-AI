@@ -1,0 +1,65 @@
+SYNTHETIC SAMPLE CONTRACT — FOR DEMONSTRATION ONLY
+This is an AI-generated template. It is not a real legal document and should
+not be used for any legal purpose. Consult a qualified lawyer for real agreements.
+
+=====================================================================
+
+SOFTWARE DEVELOPMENT AGREEMENT
+
+This Software Development Agreement ("Agreement") is entered into as of February 10, 2025
+(the "Effective Date"), by and between ClientCo LLC, a Washington corporation (the "Client"),
+and DevStudio Inc., an Oregon corporation (the "Developer").
+
+1. SCOPE OF WORK
+The Developer shall design, develop, and deliver a web-based inventory management system
+(the "Software") according to the specifications in Exhibit A. The Developer shall provide
+source code, documentation, and 90 days of post-delivery support.
+
+2. MILESTONES AND DELIVERABLES
+(a) Milestone 1: UI/UX design mockups — due March 15, 2025
+(b) Milestone 2: Backend API and database schema — due April 30, 2025
+(c) Milestone 3: Complete Software with source code — due June 15, 2025
+
+3. PAYMENT TERMS
+The Client shall pay the Developer a total of $85,000 USD as follows:
+(a) $25,000 upon signing of this Agreement;
+(b) $20,000 upon completion of Milestone 1;
+(c) $20,000 upon completion of Milestone 2;
+(d) $20,000 upon delivery of the complete Software.
+All invoices are payable within 30 days of receipt.
+
+4. INTELLECTUAL PROPERTY
+All intellectual property rights in the Software, including source code, designs, and
+documentation, shall be assigned to the Client upon full payment. The Developer retains
+ownership of pre-existing tools and libraries used in the development. The Developer
+grants the Client a perpetual, irrevocable license to use such pre-existing components.
+
+5. CONFIDENTIALITY
+Each party agrees to keep confidential all proprietary information disclosed during
+the term of this Agreement. This obligation survives for 3 years after termination.
+
+6. WARRANTY
+The Developer warrants that the Software will conform to the specifications for 90 days
+after delivery. The Developer's sole obligation is to repair or replace non-conforming
+Software. The Software is provided "as-is" after the warranty period.
+
+7. LIMITATION OF LIABILITY
+The Developer's total liability under this Agreement shall not exceed the total fees paid
+by the Client. Neither party shall be liable for indirect or consequential damages.
+
+8. TERMINATION
+Either party may terminate this Agreement with 30 days written notice. The Client may
+terminate immediately for material breach. Upon termination, the Developer shall deliver
+all work completed to date.
+
+9. INDEMNIFICATION
+The Developer shall indemnify the Client against any third-party claims arising from
+the Developer's infringement of intellectual property rights.
+
+10. GOVERNING LAW
+This Agreement shall be governed by the laws of the State of Washington.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement.
+
+ClientCo LLC                           DevStudio Inc.
+By: ____________________              ____________________

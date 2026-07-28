@@ -1,0 +1,62 @@
+SYNTHETIC SAMPLE CONTRACT — FOR DEMONSTRATION ONLY
+This is an AI-generated template. It is not a real legal document and should
+not be used for any legal purpose. Consult a qualified lawyer for real agreements.
+
+=====================================================================
+
+EMPLOYMENT AGREEMENT
+
+This Employment Agreement ("Agreement") is made and entered into as of January 15, 2025
+(the "Effective Date"), by and between TechCorp Inc., a Delaware corporation (the "Company"),
+and Jane Smith, an individual residing in California (the "Employee").
+
+1. POSITION AND DUTIES
+The Company hereby employs the Employee as Senior Software Engineer. The Employee shall
+perform the duties customary to such position and such other duties as may be assigned
+by the Company. The Employee shall report to the Chief Technology Officer.
+
+2. COMPENSATION
+The Company shall pay the Employee an annual base salary of $145,000 USD, payable in
+bi-weekly installments. The Employee shall be eligible for an annual performance bonus
+of up to 15% of base salary, payable within 30 days of the end of each fiscal year.
+
+3. CONFIDENTIALITY
+The Employee acknowledges that during employment, the Employee will have access to
+confidential information, including trade secrets, source code, customer lists, and
+business strategies. The Employee agrees to maintain the confidentiality of all such
+information during and after employment. This obligation shall survive termination
+indefinitely.
+
+4. INTELLECTUAL PROPERTY
+All work product, inventions, and intellectual property created by the Employee during
+the course of employment shall be the exclusive property of the Company. The Employee
+hereby assigns all right, title, and interest in such intellectual property to the Company.
+This assignment is irrevocable.
+
+5. NON-COMPETE
+For a period of 12 months following termination of employment, the Employee shall not
+engage in any business that competes with the Company within the United States. This
+restriction applies to direct and indirect competition.
+
+6. TERMINATION
+Either party may terminate this Agreement at any time with 30 days written notice.
+The Company may terminate the Employee immediately for cause, including gross misconduct,
+fraud, or material breach of this Agreement. Upon termination, the Employee shall receive
+all accrued salary through the date of termination.
+
+7. BENEFITS
+The Employee shall be eligible for health insurance, 401(k) with 4% company match, and
+15 days of paid time off per year.
+
+8. GOVERNING LAW
+This Agreement shall be governed by the laws of the State of Delaware. Any disputes
+shall be resolved in the courts of Delaware.
+
+9. NOTICE
+All notices under this Agreement shall be in writing and delivered to the parties at
+the addresses listed above.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the Effective Date.
+
+TechCorp Inc.                          Jane Smith
+By: ____________________              ____________________

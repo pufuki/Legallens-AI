@@ -1,0 +1,59 @@
+SYNTHETIC SAMPLE CONTRACT — FOR DEMONSTRATION ONLY
+This is an AI-generated template. It is not a real legal document and should
+not be used for any legal purpose. Consult a qualified lawyer for real agreements.
+
+=====================================================================
+
+CONSULTING AGREEMENT
+
+This Consulting Agreement ("Agreement") is entered into as of May 20, 2025 (the
+"Effective Date"), by and between Enterprise LLC, an Illinois corporation (the "Company"),
+and Michael Chen, an individual consultant (the "Consultant").
+
+1. SERVICES
+The Consultant shall provide strategic advisory services related to market expansion and
+operational efficiency, as further described in Exhibit A. The Consultant shall report to
+the Chief Executive Officer.
+
+2. TERM
+This Agreement shall commence on the Effective Date and continue for 6 months, ending on
+November 20, 2025, unless terminated earlier.
+
+3. COMPENSATION
+The Company shall pay the Consultant a monthly retainer of $12,000 USD, payable on the 1st
+of each month. The Consultant shall submit monthly invoices. Additional work beyond the
+scope shall be billed at $200 USD per hour.
+
+4. CONFIDENTIALITY
+The Consultant shall maintain the confidentiality of all proprietary information disclosed
+by the Company. This obligation survives for 5 years after termination.
+
+5. INTELLECTUAL PROPERTY
+All deliverables created by the Consultant for the Company shall be the property of the
+Company. The Consultant assigns all rights in such deliverables to the Company. The
+Consultant retains ownership of pre-existing methodologies and tools.
+
+6. INDEPENDENT CONTRACTOR
+The Consultant is an independent contractor and not an employee. The Consultant is
+responsible for their own taxes and insurance. This Agreement does not create a partnership
+or joint venture.
+
+7. NON-COMPETE
+During the term and for 6 months after, the Consultant shall not provide consulting services
+to any direct competitor of the Company within the same industry.
+
+8. TERMINATION
+Either party may terminate this Agreement with 14 days written notice. Upon termination,
+the Consultant shall be paid for all services rendered through the termination date.
+
+9. LIMITATION OF LIABILITY
+The Consultant's liability shall not exceed the fees paid in the 3 months preceding any
+claim.
+
+10. GOVERNING LAW
+This Agreement is governed by the laws of the State of Illinois.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement.
+
+Enterprise LLC                         Michael Chen
+By: ____________________              ____________________

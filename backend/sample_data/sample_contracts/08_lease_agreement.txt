@@ -1,0 +1,51 @@
+SYNTHETIC SAMPLE CONTRACT — FOR DEMONSTRATION ONLY
+This is an AI-generated template. It is not a real legal document and should
+not be used for any legal purpose. Consult a qualified lawyer for real agreements.
+
+=====================================================================
+
+COMMERCIAL LEASE AGREEMENT
+
+This Commercial Lease Agreement ("Lease") is entered into as of August 1, 2025 (the
+"Effective Date"), by and between Property Holdings LLC, a Colorado corporation (the
+"Landlord"), and StartupLab Inc., a Colorado corporation (the "Tenant").
+
+1. PREMISES
+The Landlord leases to the Tenant approximately 5,000 square feet of office space located
+at 1234 Innovation Drive, Suite 200, Denver, Colorado (the "Premises").
+
+2. TERM
+The lease term is 36 months commencing August 1, 2025 and ending July 31, 2028.
+
+3. RENT
+The Tenant shall pay monthly rent of $12,500 USD, due on the 1st of each month. Rent shall
+increase by 3% annually. Late rent incurs a $200 USD late fee plus 1% interest per month.
+
+4. SECURITY DEPOSIT
+The Tenant shall pay a security deposit of $25,000 USD upon signing. The deposit shall be
+returned within 30 days of lease termination, less any deductions for damages.
+
+5. USE OF PREMISES
+The Premises shall be used for general office purposes only. The Tenant shall not use the
+Premises for any unlawful or hazardous purpose.
+
+6. MAINTENANCE AND REPAIRS
+The Landlord shall maintain the building structure and common areas. The Tenant shall
+maintain the interior of the Premises and pay for any damage caused by the Tenant.
+
+7. LIABILITY AND INSURANCE
+The Tenant shall maintain liability insurance of at least $1,000,000 USD and name the
+Landlord as an additional insured. The Landlord shall not be liable for injury to the
+Tenant's property or persons.
+
+8. TERMINATION
+The Tenant may terminate early with 90 days notice and payment of a termination fee equal
+to 2 months' rent. The Landlord may terminate for material breach with 30 days notice.
+
+9. GOVERNING LAW
+This Lease is governed by the laws of the State of Colorado.
+
+IN WITNESS WHEREOF, the parties have executed this Lease.
+
+Property Holdings LLC                   StartupLab Inc.
+By: ____________________              ____________________

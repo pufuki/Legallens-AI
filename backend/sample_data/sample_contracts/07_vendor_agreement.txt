@@ -1,0 +1,57 @@
+SYNTHETIC SAMPLE CONTRACT — FOR DEMONSTRATION ONLY
+This is an AI-generated template. It is not a real legal document and should
+not be used for any legal purpose. Consult a qualified lawyer for real agreements.
+
+=====================================================================
+
+VENDOR AGREEMENT
+
+This Vendor Agreement ("Agreement") is entered into as of July 1, 2025 (the "Effective
+Date"), by and between RetailCo Inc., a Nevada corporation (the "Buyer"), and SupplyChain
+Ltd., an Arizona corporation (the "Vendor").
+
+1. SUPPLY OF GOODS
+The Vendor shall supply the Buyer with electronic components as described in the purchase
+orders issued by the Buyer from time to time. The Vendor shall deliver goods within 14 days
+of receiving a purchase order.
+
+2. PRICING
+Prices are set forth in the pricing schedule attached as Exhibit B. The Vendor shall provide
+a 5% volume discount for orders exceeding $50,000 USD. Prices are fixed for 12 months.
+
+3. PAYMENT TERMS
+The Buyer shall pay all invoices within 45 days of receipt (Net 45). Invoices exceeding
+$100,000 USD are payable within 60 days.
+
+4. QUALITY AND WARRANTY
+The Vendor warrants that all goods shall conform to specifications and be free from defects
+for 24 months from delivery. The Vendor shall replace defective goods at no cost within
+10 days of notification.
+
+5. INDEMNIFICATION
+The Vendor shall indemnify the Buyer against claims arising from defective goods, including
+product liability claims and intellectual property infringement.
+
+6. LIMITATION OF LIABILITY
+The Vendor's liability for defective goods shall not exceed the purchase price of the
+defective goods. Neither party is liable for indirect or consequential damages.
+
+7. CONFIDENTIALITY
+Each party shall protect the other's confidential information, including pricing, product
+designs, and business plans. This obligation survives for 5 years.
+
+8. TERM AND TERMINATION
+This Agreement is for 3 years and automatically renews for 1-year terms. Either party may
+terminate with 90 days notice. The Buyer may terminate immediately for material breach or
+insolvency of the Vendor.
+
+9. FORCE MAJEURE
+Neither party is liable for delays caused by events beyond their reasonable control.
+
+10. GOVERNING LAW
+This Agreement is governed by the laws of the State of Nevada.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement.
+
+RetailCo Inc.                          SupplyChain Ltd.
+By: ____________________              ____________________
