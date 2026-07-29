@@ -308,18 +308,6 @@ These are clearly labeled as synthetic and are for demonstration only.
 
 ---
 
-## Screenshots
-
-<!-- Add screenshots here after running the app -->
-
-- [ ] Landing page
-- [ ] Upload page
-- [ ] Analysis dashboard
-- [ ] Compare page
-- [ ] Chat page
-
----
-
 ## Tech Stack
 
 **Frontend:** React, Vite, TailwindCSS, React Router, Framer Motion, Lucide React, React Markdown, PDF.js, Mammoth, Axios
@@ -346,8 +334,3 @@ These are clearly labeled as synthetic and are for demonstration only.
 
 LegalLens AI is a demonstration project. It does **not** provide legal advice and should not replace a qualified lawyer. Always consult legal counsel for binding decisions.
 
----
-
-## License
-
-This project is for demonstration and portfolio purposes.
