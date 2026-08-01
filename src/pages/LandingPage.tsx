@@ -405,28 +405,48 @@ export function LandingPage() {
         </section>
 
         {/* Workflow Section */}
-        <section className="py-24 px-4 sm:px-6 bg-navy-950 text-white relative overflow-hidden border-b border-navy-800">
+        <section className="py-24 px-4 sm:px-6 bg-slate-100/70 dark:bg-navy-950 text-navy-950 dark:text-white relative overflow-hidden border-b border-slate-200/80 dark:border-navy-800 transition-colors">
           <div className="max-w-4xl mx-auto text-center mb-16">
             <Badge tone="gold" className="mb-3">
               Workflow
             </Badge>
-            <h2 className="font-serif text-3xl sm:text-5xl font-bold mb-4">Three Steps to Contract Clarity</h2>
-            <p className="text-slate-400 text-base sm:text-lg">No software downloads or server configuration needed.</p>
+            <h2 className="font-serif text-3xl sm:text-5xl font-bold mb-4 text-navy-950 dark:text-slate-50">
+              Three Steps to Contract Clarity
+            </h2>
+            <p className="text-slate-600 dark:text-slate-300 text-base sm:text-lg">
+              No software downloads or server configuration needed.
+            </p>
           </div>
 
           <div className="grid md:grid-cols-3 gap-8 max-w-5xl mx-auto relative">
             {STEPS.map((s, i) => (
-              <div key={s.title} className="glass rounded-2xl p-8 border border-navy-800 relative flex flex-col justify-between">
-                <div>
-                  <div className="flex items-center justify-between mb-6">
-                    <span className="font-mono text-2xl font-bold text-gold-400">{s.step}</span>
-                    <div className="w-10 h-10 rounded-xl bg-gold-400/10 flex items-center justify-center text-gold-400">
-                      <s.icon className="w-5 h-5" />
+              <div key={s.title} className="relative group">
+                <div className="bg-white dark:bg-navy-900/90 rounded-2xl p-8 border border-slate-200/80 dark:border-navy-700/80 shadow-md hover:shadow-lg transition-all flex flex-col justify-between h-full">
+                  <div>
+                    <div className="flex items-center justify-between mb-6">
+                      <span className="font-mono text-2xl font-bold text-gold-600 dark:text-gold-400">{s.step}</span>
+                      <div className="w-10 h-10 rounded-xl bg-gold-400/10 dark:bg-gold-400/20 flex items-center justify-center text-gold-600 dark:text-gold-400">
+                        <s.icon className="w-5 h-5" />
+                      </div>
                     </div>
+                    <h3 className="font-serif text-xl font-bold mb-2 text-navy-950 dark:text-white">{s.title}</h3>
+                    <p className="text-sm text-slate-600 dark:text-slate-300 leading-relaxed">{s.desc}</p>
                   </div>
-                  <h3 className="font-serif text-xl font-bold mb-2 text-white">{s.title}</h3>
-                  <p className="text-sm text-slate-400 leading-relaxed">{s.desc}</p>
                 </div>
+
+                {/* Connecting Arrows between steps */}
+                {i < STEPS.length - 1 && (
+                  <>
+                    {/* Desktop Arrow */}
+                    <div className="hidden md:flex absolute top-1/2 -right-6 -translate-y-1/2 z-20 w-8 h-8 rounded-full bg-white dark:bg-navy-800 border border-slate-200 dark:border-navy-700 shadow-md items-center justify-center text-gold-500">
+                      <ArrowRight className="w-4 h-4" />
+                    </div>
+                    {/* Mobile Down Arrow */}
+                    <div className="md:hidden flex justify-center py-3 text-gold-500">
+                      <ChevronDown className="w-6 h-6 animate-bounce" />
+                    </div>
+                  </>
+                )}
               </div>
             ))}
           </div>
