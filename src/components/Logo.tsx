@@ -11,9 +11,9 @@ export function Logo({ className, showText = true }: { className?: string; showT
         <div className="absolute -inset-0.5 rounded-xl bg-gold-400/20 blur-md -z-10" />
       </div>
       {showText && (
-        <div className="leading-none">
-          <span className="font-serif text-lg font-semibold text-navy-900 dark:text-slate-100">LegalLens</span>
-          <span className="ml-1 text-xs font-medium text-gold-500">AI</span>
+        <div className="leading-none flex items-baseline">
+          <span className="font-bold text-lg tracking-tight text-navy-900 dark:text-slate-100">LegalLens</span>
+          <span className="ml-1.5 text-xs font-bold text-gold-500 tracking-wider">AI</span>
         </div>
       )}
     </div>
