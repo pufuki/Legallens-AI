@@ -133,6 +133,41 @@ export function UploadPage() {
           </motion.div>
         </motion.div>
 
+        {/* Sample contracts quick-try */}
+        <div className="mt-4 flex flex-wrap items-center justify-center gap-2">
+          <span className="text-xs text-slate-500 dark:text-slate-400 font-medium">Or try a sample:</span>
+          {[
+            { name: 'NDA', file: '02_nda.docx' },
+            { name: 'Employment Agreement', file: '01_employment_agreement.docx' },
+            { name: 'SaaS Agreement', file: '04_saas_agreement.docx' },
+            { name: 'Lease Agreement', file: '08_lease_agreement.docx' },
+            { name: 'Software Dev Agreement', file: '03_software_development_agreement.docx' },
+          ].map((sample) => (
+            <button
+              key={sample.file}
+              type="button"
+              disabled={uploading}
+              onClick={async (e) => {
+                e.stopPropagation();
+                try {
+                  const res = await fetch(`/sample_contracts/${sample.file}`);
+                  const blob = await res.blob();
+                  const file = new File([blob], sample.file, {
+                    type: 'application/vnd.openxmlformats-officedocument.wordprocessingml.document',
+                  });
+                  validateAndAdd([file]);
+                } catch (err) {
+                  console.error('Failed to load sample file', err);
+                }
+              }}
+              className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full text-xs font-medium bg-slate-100 dark:bg-navy-800 text-navy-800 dark:text-slate-200 hover:bg-gold-50 hover:text-gold-700 dark:hover:bg-gold-900/20 dark:hover:text-gold-400 transition-colors border border-slate-200 dark:border-navy-700 disabled:opacity-50"
+            >
+              <FileText className="w-3.5 h-3.5 text-gold-500" />
+              {sample.name}
+            </button>
+          ))}
+        </div>
+
         {/* Error */}
         {error && (
           <motion.div

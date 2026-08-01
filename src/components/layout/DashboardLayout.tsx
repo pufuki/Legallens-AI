@@ -1,4 +1,5 @@
 import { useState, type ReactNode } from 'react';
+import { Link } from 'react-router-dom';
 import { Menu, Sparkles } from 'lucide-react';
 import { Sidebar } from '@/components/layout/Sidebar';
 import { Button } from '@/components/ui/Button';
@@ -31,12 +32,12 @@ export function DashboardLayout({ children, action }: DashboardLayoutProps) {
             </div>
             <div className="flex items-center gap-3">
               {action}
-              <a href="https://bolt.new/settings?page=add-on-features" target="_blank" rel="noreferrer">
+              <Link to="/upload">
                 <Button variant="gold" size="sm">
                   <Sparkles className="w-4 h-4" />
-                  Upgrade
+                  New Analysis
                 </Button>
-              </a>
+              </Link>
             </div>
           </div>
         </header>

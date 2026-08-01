@@ -372,7 +372,8 @@ def analyze(text: str) -> DocumentAnalysis:
     if parties:
         bullets.append(f"Parties involved: {', '.join(parties)}.")
     if dates:
-        bullets.append(f"Key dates: {'; '.join(f\"{d['label']} ({d['date']})\" for d in dates[:4])}.")
+        date_strs = [f"{d['label']} ({d['date']})" for d in dates[:4]]
+        bullets.append(f"Key dates: {'; '.join(date_strs)}.")
     if contract_info.important_numbers:
         bullets.append(f"Notable figures: {', '.join(contract_info.important_numbers[:6])}.")
     plain_english = f"In plain terms, this is a {contract_type.lower()}"
