@@ -1,23 +1,52 @@
-logs
+# Environment variables & secrets
+.env
+.env.*
+!.env.example
+backend/.env
+
+# Python / Virtual Environments
+.venv/
+venv/
+env/
+ENV/
+pyvenv.cfg
+
+# Python Bytecode & Cache
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.coverage
+.mypy_cache/
+.ruff_cache/
+*.egg-info/
+build/
+
+# Node.js / Frontend
+node_modules/
+dist/
+dist-ssr/
+.vite/
+logs/
 *.log
 npm-debug.log*
 yarn-debug.log*
-yarn-error.log*
 pnpm-debug.log*
-lerna-debug.log*
 
-node_modules
-dist
-dist-ssr
-*.local
-
+# IDE & System Files
+.DS_Store
+Thumbs.db
 .vscode/*
 !.vscode/extensions.json
-.idea
-.DS_Store
+.idea/
+*.swp
+*.swo
 *.suo
-*.ntvs*
-*.njsproj
-*.sln
-*.sw?
-.env
+
+# Bolt & Workspace
+.bolt/
+
+# Backend Large Datasets
+backend/sample_data/cuad/
+backend/sample_data/sec/
+backend/sample_data/kaggle/
