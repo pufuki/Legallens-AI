@@ -27,6 +27,7 @@ import { Button } from '@/components/ui/Button';
 import { Badge } from '@/components/ui/Badge';
 import { Logo } from '@/components/Logo';
 import { ThemeToggle } from '@/components/ThemeToggle';
+import { AnimatedCounter } from '@/components/ui/AnimatedCounter';
 
 const FEATURES = [
   {
@@ -360,7 +361,7 @@ export function LandingPage() {
           <div className="grid grid-cols-2 md:grid-cols-4 divide-y md:divide-y-0 md:divide-x divide-slate-200/70 dark:divide-navy-800/70 text-center">
             {METRICS.map((m) => (
               <div key={m.label} className="p-8">
-                <p className="font-serif text-3xl sm:text-4xl font-bold text-navy-900 dark:text-slate-50 mb-1">{m.value}</p>
+                <AnimatedCounter value={m.value} className="text-3xl sm:text-4xl font-bold text-navy-900 dark:text-slate-50 mb-1" />
                 <p className="text-sm font-semibold text-navy-800 dark:text-slate-200">{m.label}</p>
                 <p className="text-xs text-slate-500 dark:text-slate-400 mt-1">{m.detail}</p>
               </div>
