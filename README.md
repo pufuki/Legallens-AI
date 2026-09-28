@@ -2,7 +2,7 @@
 
 **AI-Powered Legal Document Analysis Platform**
 
-Upload legal documents and instantly receive AI-powered analysis — summaries, risk detection, clause extraction, obligation tables, timelines, contract comparison, and a chat assistant — powered by a Retrieval-Augmented Generation (RAG) pipeline.
+Upload legal documents and instantly receive AI-powered analysis — summaries, risk detection, clause extraction, obligation tables, timelines, contract comparison, and a chat assistant - powered by a Retrieval-Augmented Generation (RAG) pipeline.
 
 Built for legal professionals, startups, and businesses who need to understand contracts faster.
 
@@ -25,126 +25,19 @@ LegalLens AI helps users understand legal contracts without reading every word. 
 
 Everything runs in memory — no files are saved, no database, no user accounts.
 
----
-
-## Architecture Diagram
-
-```
-┌─────────────────────────────────────────────────────────┐
-│                     Frontend (React + Vite)               │
-│                                                           │
-│  ┌──────────┐  ┌──────────┐  ┌──────────┐  ┌──────────┐  │
-│  │  Upload  │→│ Dashboard │→│  Compare  │  │   Chat   │  │
-│  │   Page   │  │ (Analysis)│  │   Page   │  │   Page   │  │
-│  └────┬─────┘  └────┬─────┘  └────┬─────┘  └────┬─────┘  │
-│       │              │              │              │       │
-│       └──────────────┴──────────────┴──────────────┘       │
-│                          │                                │
-│              ┌───────────▼───────────┐                    │
-│              │  Document Parser     │                    │
-│              │  (PDF.js + Mammoth)  │                    │
-│              └───────────┬───────────┘                    │
-└──────────────────────────┼───────────────────────────────┘
-                           │  (optional — frontend works standalone)
-┌──────────────────────────▼───────────────────────────────┐
-│                   Backend (FastAPI + Python)              │
-│                                                           │
-│  ┌──────────┐  ┌──────────┐  ┌──────────┐  ┌──────────┐  │
-│  │ /upload  │  │ /summary │  │  /chat   │  │ /compare │  │
-│  └────┬─────┘  └────┬─────┘  └────┬─────┘  └────┬─────┘  │
-│       └──────────────┴──────────────┴──────────────┘       │
-│                          │                                │
-│              ┌───────────▼───────────┐                    │
-│              │     RAG Pipeline       │                    │
-│              │  ┌─────────────────┐  │                    │
-│              │  │  Chunker        │  │                    │
-│              │  │  ↓              │  │                    │
-│              │  │  Embeddings     │  │                    │
-│              │  │  (MiniLM-L6)   │  │                    │
-│              │  │  ↓              │  │                    │
-│              │  │  FAISS Index    │  │                    │
-│              │  │  (in-memory)    │  │                    │
-│              │  │  ↓              │  │                    │
-│              │  │  Retrieval      │  │                    │
-│              │  └─────────────────┘  │                    │
-│              └───────────┬───────────┘                    │
-│                          │                                │
-│              ┌───────────▼───────────┐                    │
-│              │   OpenRouter LLM       │                    │
-│              │   (deepseek-chat-v3)   │                    │
-│              └───────────────────────┘                    │
-└───────────────────────────────────────────────────────────┘
-```
-
----
-
 ## Features
 
-1. **Executive Summary** — Short, detailed, bullet, and plain-English summaries
-2. **Contract Information** — Type, purpose, parties, dates, jurisdiction, currency, key numbers
-3. **Clause Detection** — 15+ clause types in expandable cards
-4. **Risk Analysis** — High/medium/low risk with consequences and suggestions
-5. **Missing Clauses** — Contract-type-aware recommendations
-6. **Obligation Extraction** — Two-party tables with deadlines, payments, deliverables
-7. **Timeline** — Visual timeline of effective dates, renewals, milestones
-8. **Compare Contracts** — Added, removed, modified clauses and risk differences
-9. **AI Chat** — Ask questions grounded in uploaded documents
-10. **AI Recommendations** — Improvements, negotiation tips, legal concerns, health score
+1. **Executive Summary**  Short, detailed, bullet, and plain-English summaries
+2. **Contract Information**  Type, purpose, parties, dates, jurisdiction, currency, key numbers
+3. **Clause Detection**  15+ clause types in expandable cards
+4. **Risk Analysis**  High/medium/low risk with consequences and suggestions
+5. **Missing Clauses**  Contract-type-aware recommendations
+6. **Obligation Extraction**  Two-party tables with deadlines, payments, deliverables
+7. **Timeline**  Visual timeline of effective dates, renewals, milestones
+8. **Compare Contracts**  Added, removed, modified clauses and risk differences
+9. **AI Chat**  Ask questions grounded in uploaded documents
+10. **AI Recommendations**  Improvements, negotiation tips, legal concerns, health score
 
----
-
-## Folder Structure
-
-```
-legallens-ai/
-├── frontend/                    # React + Vite frontend
-│   ├── src/
-│   │   ├── components/
-│   │   │   ├── ui/              # Reusable UI primitives (Button, Card, Badge, etc.)
-│   │   │   ├── layout/          # Sidebar, DashboardLayout
-│   │   │   └── analysis/        # Analysis section components
-│   │   ├── pages/               # Landing, Upload, Dashboard, Compare, Chat, About, 404
-│   │   ├── hooks/               # useTheme, useDocuments
-│   │   ├── services/            # documentParser, analyzer, openrouter
-│   │   ├── utils/               # Formatting helpers
-│   │   ├── types/               # TypeScript types
-│   │   └── App.tsx              # Router + providers
-│   ├── package.json
-│   ├── tailwind.config.js
-│   └── vite.config.ts
-│
-├── backend/                     # FastAPI + Python backend
-│   ├── app/
-│   │   ├── api/
-│   │   │   └── routes.py        # API endpoints
-│   │   ├── core/
-│   │   │   ├── config.py        # Central config (model name, limits)
-│   │   │   └── prompts.py       # Legal system prompt
-│   │   ├── services/
-│   │   │   ├── document_parser.py  # PDF/DOCX extraction
-│   │   │   ├── llm.py           # OpenRouter client
-│   │   │   └── analyzer.py      # Heuristic analysis
-│   │   ├── rag/
-│   │   │   ├── chunker.py       # Text chunking
-│   │   │   ├── embeddings.py    # Sentence-transformers
-│   │   │   ├── vector_store.py  # FAISS in-memory index
-│   │   │   └── pipeline.py      # Full RAG pipeline
-│   │   ├── schemas/
-│   │   │   └── models.py        # Pydantic schemas
-│   │   ├── utils/
-│   │   └── main.py              # FastAPI app entry point
-│   ├── scripts/
-│   │   └── download_datasets.py
-│   ├── sample_data/
-│   │   ├── sample_contracts/    # 10 synthetic contracts
-│   │   └── README.md
-│   ├── requirements.txt
-│   └── .env.example
-│
-└── README.md
-```
-
----
 
 ## Installation
 
